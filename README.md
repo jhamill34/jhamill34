@@ -4,6 +4,7 @@
 - 📫 How to reach me:
   - Email: joshrasmussen34@gmail.com
   - Twitter: @jhamill34
+  - Blog: https://blog.jhamill.tech
 
 <!---
 jhamill34/jhamill34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
